@@ -9,11 +9,11 @@ Last-Update: 2022-01-28
  lib/Biber/LangTags.pm          |    2 +-
  2 files changed, 2 insertions(+), 2 deletions(-)
 
-Index: biber/lib/Biber/DataLists.pm
+Index: biber.git/lib/Biber/DataLists.pm
 ===================================================================
---- biber.orig/lib/Biber/DataLists.pm	2022-01-28 23:02:53.213767171 +0100
-+++ biber/lib/Biber/DataLists.pm	2022-01-28 23:02:53.209767155 +0100
-@@ -7,7 +7,7 @@
+--- biber.git.orig/lib/Biber/DataLists.pm
++++ biber.git/lib/Biber/DataLists.pm
+@@ -7,7 +7,7 @@ use warnings;
  
  =head1 NAME
  
@@ -22,11 +22,11 @@ Index: biber/lib/Biber/DataLists.pm
  
  =head2 new
  
-Index: biber/lib/Biber/LangTags.pm
+Index: biber.git/lib/Biber/LangTags.pm
 ===================================================================
---- biber.orig/lib/Biber/LangTags.pm	2022-01-28 23:02:53.213767171 +0100
-+++ biber/lib/Biber/LangTags.pm	2022-01-28 23:02:53.209767155 +0100
-@@ -62,7 +62,7 @@
+--- biber.git.orig/lib/Biber/LangTags.pm
++++ biber.git/lib/Biber/LangTags.pm
+@@ -62,7 +62,7 @@ my %bcp47parts = ('language'      => 'si
  
  =head1 NAME
  

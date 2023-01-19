@@ -4,8 +4,10 @@ Forwarded: No. Patch is specific to Debian.
 Author: Hilmar Preuße <hille42@web.de>
 Last-Update: 20220101
 
---- biber.orig/bin/biber
-+++ biber/bin/biber
+Index: biber.git/bin/biber
+===================================================================
+--- biber.git.orig/bin/biber
++++ biber.git/bin/biber
 @@ -1,4 +1,4 @@
 -#!/usr/bin/env perl
 +#!/usr/bin/perl -w
