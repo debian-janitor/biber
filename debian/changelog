@@ -1,3 +1,9 @@
+biber (2.18+git20230102.1.a91806d-1) UNRELEASED; urgency=low
+
+  * New upstream snapshot.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Thu, 19 Jan 2023 00:27:59 -0000
+
 biber (2.18-1) unstable; urgency=medium
 
   * New upstream release, bump Breaks version of texlive-bibtex-extra.
