@@ -358,6 +358,14 @@
           </element>
         </optional>
         <optional>
+          <element name="output_legacy_dates">
+            <choice>
+              <value>0</value>
+              <value>1</value>
+            </choice>
+          </element>
+        </optional>
+        <optional>
           <element name="output_listsep">
             <text/>
           </element>
@@ -1679,7 +1687,7 @@
     </choice>
   </define>
 </grammar>
-<!-- Copyright 2012-2022 Philip Kime, all rights reserved. -->
+<!-- Copyright 2012-2023 Philip Kime, all rights reserved. -->
 <!--
   This code is free software.  You can redistribute it and/or
   modify it under the terms of the Artistic License 2.0.
